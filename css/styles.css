@@ -1,0 +1,40 @@
+
+
+.bloco {
+	position: relative;
+	width: 260px;
+	text-align:center;
+	border: 1px solid #000;
+	background-color: lightcyan;
+	padding: 10px;
+	margin: 5px;
+	font-size: 20px;
+}
+
+.bloco p {
+	color: blue;
+	text-decoration: "bold"
+}
+
+.botao {
+	width: 64px;
+	height: 64px;
+	margin: 5px;
+	border: 1px solid #000;
+}
+
+.peca {
+	position: relative;
+	float: left;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border: 1px solid darkblue;
+	font-size: 18px;
+	color: blue;
+	margin: 2px;
+}
+
+.menino {		
+	background-color: blue
+}
